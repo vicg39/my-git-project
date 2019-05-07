@@ -1,6 +1,6 @@
 # My Git Project 
 
->My code for git projed
+>My scary merge code 
 
 ##I am on the code
 
